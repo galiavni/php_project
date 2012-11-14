@@ -30,7 +30,7 @@ require ('class/society.php');
 				$family = new Family();
 				
 				# We print all the families
-				$family->print_all_families($connection);
+				$family->print_all_families ($connection;
 				
 				?>
 			</div>
